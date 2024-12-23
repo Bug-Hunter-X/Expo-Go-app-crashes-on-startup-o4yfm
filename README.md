@@ -1,0 +1,1 @@
+This repository contains a bug report for an Expo Go app crash. The app crashes on startup without a clear error message, making debugging challenging. The solution involves identifying and fixing the root cause of the crash.
